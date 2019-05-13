@@ -9,4 +9,4 @@ Please refer to its documentation:
 
 # application setup
 
-npx create-react-app <appname> --scripts-version https://github.com/denisbog/app-template/tarball
+npx create-react-app <appname> --scripts-version https://github.com/denisbog/app-template/tarball/master
