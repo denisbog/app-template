@@ -10,3 +10,5 @@ Please refer to its documentation:
 # application setup
 
 npx create-react-app <appname> --scripts-version https://github.com/denisbog/app-template/tarball/master
+
+npx create-react-app <appname> --scripts-version https://github.com/denisbog/app-template/archive/master.tar.gz
