@@ -12,3 +12,5 @@ Please refer to its documentation:
 npx create-react-app <appname> --scripts-version https://github.com/denisbog/app-template/tarball/master
 
 npx create-react-app <appname> --scripts-version https://github.com/denisbog/app-template/archive/master.tar.gz
+
+npx create-react-app demo-app --scripts-version file:./react-material-scripts/app-template-master
