@@ -11,4 +11,4 @@ Please refer to its documentation:
 
 git clone https://github.com/denisbog/app-template.git
 
-npx create-react-app demo-app --scripts-version file:./react-material-scripts/app-template
+npx create-react-app demo-app --scripts-version file:./app-template
