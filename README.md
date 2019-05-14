@@ -9,8 +9,6 @@ Please refer to its documentation:
 
 # application setup
 
-npx create-react-app <appname> --scripts-version https://github.com/denisbog/app-template/tarball/master
+git clone https://github.com/denisbog/app-template.git
 
-npx create-react-app <appname> --scripts-version https://github.com/denisbog/app-template/archive/master.tar.gz
-
-npx create-react-app demo-app --scripts-version file:./react-material-scripts/app-template-master
+npx create-react-app demo-app --scripts-version file:./app-template
